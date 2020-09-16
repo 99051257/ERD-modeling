@@ -1,0 +1,16 @@
+Case 2:
+
+De game-o-theek om de hoek wil een database ontwerpen waarin ze de verhuur van hun games kunnen opslaan.
+
+✓ Een huurder kan een exemplaar van een game voor een periode huren
+✓ Een huurder kan een reservering maken voor een game voor een periode
+✓ Een game behoort tot een of meerdere categoriën
+✓ Een huurder kan (voor een huur of reservering) kiezen uit meerdere periodes die allemaal hun eigen prijs hebben (b.v. 1 dag = 5 euro, 2 dagen = 8 euro, enz)
+✓ Een verhuurder heeft van een game meerdere exemplaren op voorraad en moet inzicht hebben in de actuele voorraad
+✓ Een verhuurder moet van exemplaren de schade (eenvoudige tekst) kunnen registreren, zodat de verhuurder ook exemplaren kan verwijderen.
+ 
+
+Het model moet inzicht geven in:
+
+✓ welke huurder welke schade heeft gemaakt aan een specifiek exemplaar.
+✓ aan welke huurder een exemplaar van een game op een specifiek moment is verhuurd.
